@@ -1,5 +1,5 @@
 // Guarda o app no aparelho para abrir sem internet. Os agendamentos NÃO passam por aqui: ficam no próprio celular.
-const VERSION = 'copa-rio-v1.0';
+const VERSION = 'copa-rio-v1.1';
 const FONTS = VERSION + '-fonts';
 const CORE = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png'];
 
